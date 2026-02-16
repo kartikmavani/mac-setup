@@ -217,6 +217,7 @@ main() {
   setAutoUpdate
   newline_below_bar
   setup_zsh
+  echo -e "\n${YELLOW}${BOLD}✨  Add ["~/Library/Application Support/com.github.domt4.homebrew-autoupdate/brew_autoupdate", "terminal.app", "/usr/bin/ruby"] to System Settings / Privacy and Security / App Management.${NC}"
   echo -e "\n${GREEN}${BOLD}✨  All done! Consider rebooting.${NC}"
 }
 
