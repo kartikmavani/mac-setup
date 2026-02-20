@@ -111,6 +111,7 @@ APPS=(
   "whatsapp:cask"
   "tailscale-app:cask"
   "google-drive:cask" 
+  
 
 
   # Formulae
@@ -121,6 +122,7 @@ APPS=(
   "zsh-history-substring-search:formula"
   "powerlevel10k:formula"
   "pinentry-mac:formula"
+  "python:formula"
   
 )
 
